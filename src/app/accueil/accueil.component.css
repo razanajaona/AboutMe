@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    position: relative;
+    justify-content: space-evenly;
+}
+.spacer{
+    flex: 1 1 auto;
+}
+.blog{
+    padding: 10em;
+}
+h1{
+    color: #B2A928;
+    font-size: 50px;
+}
+button{
+    background-color: #B2A928;    
+}
+p{
+    font-size: 16px;
+    padding-top: 1em;
+}
+button{
+    color: white;
+}

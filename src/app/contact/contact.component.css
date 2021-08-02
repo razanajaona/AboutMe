@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    padding: 1em;
+}
+.card{
+    padding: 1em;
+    width: 100%;
+    position: relative;
+    top: 80px;
+}
+img{
+    position: relative;
+    top: -80px;
+}
+.titre{
+    color: #B2A928;
+}

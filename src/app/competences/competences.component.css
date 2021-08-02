@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+}
+.titre{
+    font-size: 30px;
+    color: #B2A928;
+}
+p{
+    font-size: 14px;
+    padding: 1em;
+}
+.blog{
+    padding: 1em;
+}

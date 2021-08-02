@@ -1,0 +1,8 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+}
+.spacer{
+    flex: 1 1 auto;
+}
